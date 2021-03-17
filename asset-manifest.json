@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/consti-finder/static/css/main.d9d4d2a8.chunk.css",
+    "main.js": "/consti-finder/static/js/main.3b052867.chunk.js",
+    "main.js.map": "/consti-finder/static/js/main.3b052867.chunk.js.map",
+    "runtime-main.js": "/consti-finder/static/js/runtime-main.14365808.js",
+    "runtime-main.js.map": "/consti-finder/static/js/runtime-main.14365808.js.map",
+    "static/js/2.7b8d3021.chunk.js": "/consti-finder/static/js/2.7b8d3021.chunk.js",
+    "static/js/2.7b8d3021.chunk.js.map": "/consti-finder/static/js/2.7b8d3021.chunk.js.map",
+    "index.html": "/consti-finder/index.html",
+    "precache-manifest.394ebead66cd943a6b9b293bceba4b1c.js": "/consti-finder/precache-manifest.394ebead66cd943a6b9b293bceba4b1c.js",
+    "service-worker.js": "/consti-finder/service-worker.js",
+    "static/css/main.d9d4d2a8.chunk.css.map": "/consti-finder/static/css/main.d9d4d2a8.chunk.css.map",
+    "static/js/2.7b8d3021.chunk.js.LICENSE.txt": "/consti-finder/static/js/2.7b8d3021.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14365808.js",
+    "static/js/2.7b8d3021.chunk.js",
+    "static/css/main.d9d4d2a8.chunk.css",
+    "static/js/main.3b052867.chunk.js"
+  ]
+}

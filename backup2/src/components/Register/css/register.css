@@ -1,0 +1,26 @@
+.wrapper{
+    display: flex;
+    /* background-color: #f1f1ff;  */
+}
+
+#parent{
+    justify-content: center;
+    /* background-color: #f1f1ff; */
+}
+
+#heading{
+    color: #d5c403;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+#heading #logo{
+    color: darkgreen;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+#heading small{
+    border-top: darkgrey 1px solid;
+}

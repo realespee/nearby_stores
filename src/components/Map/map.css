@@ -1,0 +1,21 @@
+.main{
+  /* flex: 10; */
+  display: flex;
+  margin-left: 5px;
+  margin-right: 5px;
+  gap: 10px;
+  flex-wrap: wrap-reverse;
+  /* align-items: flex-start; */
+  border-radius: 5px;
+}
+
+.map-area{
+  /* flex-basis: 75%; */
+  flex: 2;
+  padding: 5px;
+}
+
+.sidebar-area{
+  /* flex-basis: 25%; */
+  flex: 1;
+}

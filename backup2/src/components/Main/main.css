@@ -1,0 +1,23 @@
+.main{
+    display: flex;
+    margin-left: 5px;
+    margin-right: 5px;
+    gap: 25px;
+    flex-wrap: wrap-reverse;
+    /* position: relative; */
+    width: 100%;
+    /* align-items: stretch; */
+}
+
+
+.map-area{
+    flex: 3;
+    padding: 5px;
+}
+
+.sidebar-area{
+    flex: 1;
+    align-content: center;
+    /* align-items: stretch; */
+}
+

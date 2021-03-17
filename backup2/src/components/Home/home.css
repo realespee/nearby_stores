@@ -1,0 +1,18 @@
+/* :global body {
+  margin: 0px;
+  padding: 0px;
+} */
+
+:global * {
+  box-sizing: border-box;
+  font-family: "robot", sans-serif;
+}
+
+.App {
+  /* position: absolute; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: #ebebf3;
+  align-content: flex-end;
+}

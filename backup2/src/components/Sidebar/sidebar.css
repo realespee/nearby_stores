@@ -1,0 +1,40 @@
+.sidebar{
+  display: flex;
+  flex-direction: column;
+  /* align-items: stretch; */
+  text-align: center;
+  /* gap: 5px; */
+  /* position: relative; */
+}
+
+.item-title{
+  text-align: center;
+  font-weight: 800;
+  font-size: 20px;
+  font-family: Montserrat, sans-serif;
+  background-color: rgb(26, 89, 114);
+  border-radius: 5px;
+  padding: 5px;
+  color: white;
+  margin-top: 5px;
+}
+
+/* .wrapper{
+  gap: 5px;
+} */
+
+.single-store{
+  /* background-color: #fff; */
+  /* border: rgb(7, 51, 71) 1px solid; */
+  border-bottom: burlywood 1px solid;
+  /* border-radius: 10px; */
+  text-align: center;
+  font-weight: 500;
+  font-size: 16px;
+  font-family: Montserrat, sans-serif;
+  
+}
+
+
+
+
